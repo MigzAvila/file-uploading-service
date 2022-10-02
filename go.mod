@@ -1,4 +1,4 @@
-module file-uploading.miguelavila.net
+module fileuploading.miguelavila.net
 
 go 1.19
 
