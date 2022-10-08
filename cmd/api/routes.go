@@ -20,3 +20,5 @@ func (app *application) routes() *httprouter.Router {
 
 	return router
 }
+
+// BODY='{"name":"Miguel Avila", "phone":"501-607-1123", "email":"mavila2@gmail.com", "address":"17 Peach street", "school": "UB", "degree": "AINT"}'

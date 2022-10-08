@@ -1,8 +1,12 @@
+--MVU architecture (elm aarchitecture)
+--model
+--model / state
+
 module Quiz2 exposing (main)
 
 -- Bring everything from Html Like import namespace
 import Html exposing (..)
-import Html.Attributes exposing (class, src)
+import Html.Attributes exposing (class)
 import Html.Events exposing (onClick)
 import Browser
 
